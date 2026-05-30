@@ -7,3 +7,5 @@ Tôi đang sửa code từ Github và sẽ Pull về VS Code .
 Tôi chỉnh sửa ở Github . 
 
 Tôi đã hiểu cách vận hành .
+
+Add
