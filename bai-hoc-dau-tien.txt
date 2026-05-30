@@ -9,3 +9,5 @@ Tôi chỉnh sửa ở Github .
 Tôi đã hiểu cách vận hành .
 
 Add
+
+Pull
