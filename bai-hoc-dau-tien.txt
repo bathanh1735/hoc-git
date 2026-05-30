@@ -1,3 +1,5 @@
 Hello Git !
 
 Tôi là Bá Thành đang học Git & sử dụng Github .
+
+Tôi đang sửa code từ Github và sẽ Pull về VS Code .
