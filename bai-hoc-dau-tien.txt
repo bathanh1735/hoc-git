@@ -11,3 +11,5 @@ Tôi đã hiểu cách vận hành .
 Add
 
 Pull
+
+New
