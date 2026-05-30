@@ -1,1 +1,3 @@
 Hello Git !
+
+Tôi là Bá Thành đang học Git & sử dụng Github .
